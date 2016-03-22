@@ -1,0 +1,28 @@
+name: Keithius
+favicon: null
+layout_spectrum: 0.6713222544640303
+typography_spectrum: 0.7443255216348916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.34153862530365586
+  lightness: 0.12546696094796062
+  saturation: 0.09744577831588686
+  rhythmicContrast: 0.9250864093191922
+purpose: []
