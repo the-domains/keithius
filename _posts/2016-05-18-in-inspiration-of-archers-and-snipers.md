@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'In Inspiration of Archers & Snipers '
-datePublished: '2016-05-18T09:15:31.905Z'
-dateModified: '2016-05-18T09:15:23.264Z'
+datePublished: '2016-05-18T17:34:24.991Z'
+dateModified: '2016-05-18T17:32:00.875Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-18-in-inspiration-of-archers-and-snipers.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-18-in-inspiration-of-archers-and-snipers.md
+starred: true
 url: in-inspiration-of-archers-and-snipers/index.html
 _type: Article
 
